@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"si.feri.opj.mladenovic.event"}];updateSearchResults();

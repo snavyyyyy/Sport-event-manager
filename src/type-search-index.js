@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"si.feri.opj.mladenovic.event","l":"Schedule"},{"p":"si.feri.opj.mladenovic.event","l":"Training"},{"p":"si.feri.opj.mladenovic.event","l":"Venue"}];updateSearchResults();
